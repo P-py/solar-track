@@ -1,7 +1,6 @@
 import numpy as np
 import csv
 import folium
-from folium.plugins import HeatMap
 
 FILE_PATH = './map_base_assets/sorocaba_geo_limits.csv'
 

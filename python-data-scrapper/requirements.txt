@@ -2,3 +2,5 @@ numpy
 pandas
 folium
 selenium
+geopy
+plotly
