@@ -5,3 +5,4 @@ selenium
 geopy
 plotly
 streamlit
+matplotlib
