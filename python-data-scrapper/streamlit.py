@@ -4,7 +4,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 from geopy.distance import geodesic
 import random
-import streamlit.components.v1 as components
 
 REFERENCE_POINTS_FILE = "./cresesb_collect_points.csv"
 MESH_POINTS_FILE = "./reference_mesh_points.csv"
