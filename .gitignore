@@ -1,3 +1,4 @@
 python-data-scrapper/solar-track-venv/*
-*.csv
+python-data-scrapper/*.csv
 *.html
+__pycache__/

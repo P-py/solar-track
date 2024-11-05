@@ -62,6 +62,10 @@ void loop() {
   float botl = analogRead(ldrbotl); //read analog values from bottom left LDR
   float botr = analogRead(ldrbotr); //read analog values from bottom right LDR
 
+  Serial.print("Vert: ");
+  Serial.println(servov);
+  Serial.print("Hori: ");
+  Serial.println(servoh);
   Serial.print("Top L: ");
   Serial.println(topl);
   Serial.print("Top R: ");
